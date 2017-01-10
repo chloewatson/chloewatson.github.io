@@ -4,6 +4,8 @@ Documentation for Multi Template by Bootstrapious - https://bootstrapious.com, r
 
 ################################################################################################
 
+THIS IS CHLOE'S WEBSITE
+
 Hi,
 
 thank you for downloading. Have fun and tell your friends about us ;)
