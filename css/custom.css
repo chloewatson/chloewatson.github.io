@@ -1,10 +1,11 @@
 /* your styles go here 
 TO DO; make background white */
 
-section {
-	background-color: #fff;
+.background-gray-lightest {
+	background-color: : #fff;
 }
 
-footer {
-	background-color: #fff;
+
+.footer {
+	background: #fff;
 }
