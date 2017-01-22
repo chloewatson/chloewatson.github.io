@@ -2,10 +2,12 @@
 TO DO; make background white */
 
 .background-gray-lightest {
-	background-color: : white;
+	background-color: white;
 }
 
 
-.footer {
-	background: white;
+.footer__copyright {
+  background: #cccccc;
+  position:relative
+  min-height: 100%;
 }
