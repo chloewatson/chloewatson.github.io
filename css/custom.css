@@ -7,6 +7,13 @@ TO DO; make background white */
 	padding-bottom: 8px;
 }
 
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	margin-bottom:60px;
+}
 
 .footer__copyright {
 	background-color: : #cccccc;
