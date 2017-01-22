@@ -1,31 +1,31 @@
-
-
-
-
-
-	background-color: : #cccccc;
-	background-color: white;
-	bottom: 0;
-	color: #2b90d9;
-	height: 60px;
-	margin-bottom:60px;
-	min-height: 100%;
-	padding-bottom: 8px;
-	padding-top: 15px;
-	position: absolute;
-	position: relative;
-	width: 100%;
-.background-gray-lightest {
-.col-md-6 {
-.footer {
-.footer__copyright {
-/* html { 
 /* your styles go here 
-body {
 TO DO; make background white */
+
+.background-white {
+	background-color: white;
+	padding-top: 8px;
+	padding-bottom: 15px;
 }
+
+/* html { 
+	position: relative;
+	min-height: 100%;
 }
+body {
+	margin-bottom:60px;
 }
-}
-}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
 } */
+
+.footer__copyright {
+	background-color: : #cccccc;
+}
+
+.col-md-6 {
+	color: #2b90d9;
+}
