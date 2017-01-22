@@ -6,7 +6,7 @@ TO DO; make background white */
 }
 
 
-.footer__copyright {
+.col-md-6 {
   background: #cccccc;
   position:relative
   min-height: 100%;
