@@ -13,6 +13,12 @@ html {
 }
 body {
 	padding-bottom:60px;
+	height: 100%;
+}
+
+.container {
+	margin: 0 auto -100px;
+	padding-bottom: 60px;
 }
 
 .footer__copyright {
