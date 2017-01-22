@@ -5,9 +5,11 @@ TO DO; make background white */
 	background-color: white;
 }
 
+.footer__copyright {
+	background: #cccccc;
+}
+
 
 .col-md-6 {
   background: #cccccc;
-  position:relative
-  min-height: 100%;
 }
