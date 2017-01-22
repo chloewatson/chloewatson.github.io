@@ -3,10 +3,12 @@ TO DO; make background white */
 
 .background-gray-lightest {
 	background-color: white;
-
+	padding-top: 10px;
 }
 
 
-.footer__copyright {
-	background: #cccccc;
+.footer {
+	background-color: : #cccccc;
+	position: relative;
+	min-height: 100%;
 }
