@@ -31,6 +31,10 @@ body {
 }
 
 .footer__block {
-	background: white;
-	padding: 40px 0;
+	background-color: white;
+}
+
+
+.less-space {
+	padding-top: 0px;
 }
