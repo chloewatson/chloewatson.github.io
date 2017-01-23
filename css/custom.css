@@ -35,6 +35,7 @@ body {
 }
 
 
-.less-space {
-	padding-top: 0px;
+.col-xs-12 .col-sm-12 {
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
