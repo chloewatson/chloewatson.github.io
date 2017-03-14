@@ -34,7 +34,11 @@ body {
 	background-color: white;
 }
 
-
+.col-md-12 {
+	padding-top: 15px;
+	margin-top: 0px;
+	padding-bottom: 10px;
+}
 .col-sm-12 {
 	padding-top: 15px;
 	margin-top: 0px;
