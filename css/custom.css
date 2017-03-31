@@ -41,7 +41,7 @@ body {
 
 }
  @media (min-width:0px) and (max-width:767px) {
-        .portfolio {
+        #portfolio {
             padding-top: 121px;
         }
        .navbar a.navbar-brand {
